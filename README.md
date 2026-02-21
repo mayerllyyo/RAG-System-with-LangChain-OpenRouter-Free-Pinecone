@@ -2,7 +2,8 @@
 
 ## RAG Ecommerce FAQ Chatbot
 
-A Retrieval-Augmented Generation (RAG) system that answers ecommerce customer support questions using semantic search over a FAQ dataset. Built with LangChain, OpenRouter (free LLMs), and Pinecone as the vector database. The project includes two RAG approaches: a chain-based pipeline and a ReAct agent with tool use.
+A Retrieval-Augmented Generation (RAG) system that answers ecommerce customer support questions using semantic search over a FAQ dataset. Built with LangChain, OpenRouter (free LLMs), and Pinecone as the vector database, the project includes both a chain-based pipeline and a ReAct agent with tool usage. The FAQ dataset was downloaded from Kaggle  [Ecommerce FAQ Chatbot Dataset](https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset).
+
 
 ## Architecture
 
